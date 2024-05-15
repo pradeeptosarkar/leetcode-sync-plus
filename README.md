@@ -5,7 +5,9 @@
 # LeetCode Sync Plus
 
 GitHub Action for automatically syncing LeetCode submissions to a GitHub repository.
-Leetcode Sync Originally developed by [Josh Cai](https://github.com/joshcai)
+
+Leetcode Sync Originally developed by [Josh Cai](https://github.com/joshcai).
+
 Some additional changes done by [Pradeepto Sarkar](https://github.com/pradeeptosarkar)
 
 ## Features
