@@ -106,12 +106,3 @@ This likely means that you hit a rate limit when committing to GitHub (this may 
 
 #### Job fails with "HttpError: Resource not accessible by integration"
 This means the github token you're using does not have permission to write to your repo. If you're using the default `github.token` method follow the instructions [here] (https://docs.github.com/en/actions/security-guides/automatic-token-authentication)
-
-## Acknowledgements
-
-Special thanks to the following people who helped beta test this GitHub Action and gave feedback on improving it:
-
-- [dengl11](https://github.com/dengl11)
-- [uakfdotb](https://github.com/uakfdotb)
-- [hexecute](https://github.com/hexecute)
-- [JonathanZhu11](https://github.com/JonathanZhu11)
