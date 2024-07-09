@@ -52,7 +52,7 @@ Some additional changes done by [Pradeepto Sarkar](https://github.com/pradeeptos
 
        steps:
          - name: Sync
-           uses: pradeeptosarkar/leetcode-sync-plus@v1.0.0
+           uses: pradeeptosarkar/leetcode-sync-plus@v1.1.0
            with:
              github-token: ${{ github.token }}
              leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
